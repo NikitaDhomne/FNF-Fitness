@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654550918154",
+    "project_id": "fnf-fitness",
+    "storage_bucket": "fnf-fitness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654550918154:android:93c0293aabcfc386ea6bf3",
+        "android_client_info": {
+          "package_name": "com.example.fnf_fitness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXv_j7C2pNwhvAmWOumhAHjLdoLGD7I-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
